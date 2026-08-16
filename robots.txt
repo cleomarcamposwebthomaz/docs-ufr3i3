@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-w8xjfi.saturadar88win.cfd/sitemap.xml
